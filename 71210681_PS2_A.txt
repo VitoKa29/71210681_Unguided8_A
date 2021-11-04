@@ -1,7 +1,0 @@
-Terdapat 4 buah cangkir kosong (4, 9, 5, 7) yang akan di isi dengan kopi. Berdasarkan 
-ilustrasi gambar di bawah, tentukan cangkir mana yang terisi lebih dahulu serta berikan 
-penjelasannya ! 
-
-Jawaban : 
-Cangkir yang terisi lebih dahulu adalah cangkir 5 dan hanya cangkir 5 lah satu-satunya cangkir yang terisi.
-Karena hanya pipa cangkir 5 lah yang terbuka, pipa-pipa cangkir lainnya tertutup.
