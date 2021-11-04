@@ -1,0 +1,16 @@
+2001+2002+2003+.........+3998+3999+4000 =
+
+Cari nilai n
+Un = a + (n - 1) * b
+4000 = 2001 + (n - 1) * b
+1999 = n - 1
+-n = -1999 - 1
+n = 2000
+
+cari hasil menggunakan rumus Sn
+Sn = n / 2 * (a + Un)
+Sn = 2000 / 2 * (2001 + 4000)
+Sn = 1000 * (6001)
+Sn = 6001000
+
+Jadi, hasilnya adalah 6001000
